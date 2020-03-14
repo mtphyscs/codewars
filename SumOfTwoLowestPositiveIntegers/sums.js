@@ -5,10 +5,6 @@
 
 // [10, 343445353, 3453445, 3453545353453] should return 3453455.
 
-// Link
-// https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/javascript
-
-
 
 // Solution
 
