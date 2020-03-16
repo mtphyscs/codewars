@@ -1,14 +1,15 @@
-// Instructions
+// INSTRUCTIONS
 // Given: an array containing hashes of names
 
 // Return: a string formatted as a list of names separated by
 //  commas except for the last two names,
 //   which should be separated by an ampersand.
 
-//Link
+//LINK
 // https: www.codewars.com/kata/53368a47e38700bd8300030d/train/javascript
 
-//Solution
+
+//SOLTUION
 
 function list(names) {
   let result = "";
